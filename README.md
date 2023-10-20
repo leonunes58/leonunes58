@@ -25,5 +25,5 @@
   <img align="center" alt"github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
   <img align="center" alt"gitlab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white">
 </div><br>
-
+<p>Exerço a função de desenvolvedor web e estagiário full stack na Universidade La Salle, com habilidades em tecnologias como HTML, CSS, JavaScript, TypeScript, ReactJS, NodeJS, Sequelize e Git. Trabalhando na gestão e liderança de equipe, me proponho a expandir minhas habilidades na programação web e progressão de carreira.</p>
 Apaixonado por tecnologia e jogos! Cursando Ciência da Computação </>🎮🖥️
