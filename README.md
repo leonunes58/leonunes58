@@ -26,6 +26,7 @@
   <img align="center" alt"github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
   <img align="center" alt"gitlab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white">
   <img align="center" alt"java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img align="center" alt"sap" src="https:"//img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white">
 </div><br>
 <p>Como desenvolvedor web experiente, possuo proficiências em várias tecnologias, incluindo HTML, CSS, JavaScript, TypeScript, ReactJS, NodeJS, Sequelize e Git. No cargo atual de estagiário full stack na Universidade La Salle, responsabilizo-me pela criação de layouts responsivos e desenvolvimento de rotas de banco de dados eficazes. Exerço funções de liderança, contribuindo para a organização eficiente do time de desenvolvimento. Meu objetivo de carreira imediato é aprimorar minhas habilidades de programação web, enquanto aspiro a alcançar posições mais elevadas a longo prazo.</p>
 Apaixonado por tecnologia e jogos! Cursando Ciência da Computação </>🎮🖥️
