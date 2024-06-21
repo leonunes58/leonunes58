@@ -16,5 +16,5 @@ Here are some recent articles I've recently written on Medium:
   </a>
 </div>
 
---- 
-![](https://giphy.com/clips/storyful-asia-astronomy-antarctica-EZPkA2JFrOB2ZXeo3x)
+---
+<img width="40%" src="https://media3.giphy.com/media/G4WadRySq8IROWOLwc/200.webp?cid=790b7611v9lwa5on7g7571lidr0b9qxdbf2oa1tckvzr4sru&ep=v1_gifs_search&rid=200.webp&ct=g"/>
