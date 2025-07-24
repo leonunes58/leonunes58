@@ -1,6 +1,12 @@
 # Hey you! 👋
 
-I'm a trainee at Zaffari and I'm part of the BI/Analytics. I like building side projects to discover new areas. I'm interested in back-end web developing, database and some front-end!
+I'm a Data Architect at Grendene S/A, where I design and implement scalable data ingestion architectures using Google Cloud Platform. I also help administer the Power BI Fabric environment. Furthermore, I contribute to continuous improvements and perform production deployments.
+
+I support the adoption of the data mesh model in the company, contributing to the productization of domain-oriented data, defining best practices for decentralized governance, and providing technical support to teams in the construction of data products.
+
+I'm in the 8th semester of the Computer Science program at La Salle University, expanding my technical and strategic knowledge in data and engineering.
+
+I have solid experience in development and data infrastructure maintenance, focusing on building efficient data pipelines, optimizing databases, and developing scalable solutions.
 
 
 ## Recent Articles 🗞️
